@@ -17,9 +17,12 @@ and Yttrium barium copper oxide; YBa_2Cu_3O_7.
 
 ![YBCO_high_temperature_superconductor](https://user-images.githubusercontent.com/58069246/201831292-e9384f2b-08d8-4c6a-b477-f3b464765463.jpg)
 
-### measure
+### DC measure
 ![download](https://user-images.githubusercontent.com/58069246/201831881-18e44624-c502-4903-8e1a-f9959042658a.png)
 ![10948_2014_2483_Fig5_HTML](https://user-images.githubusercontent.com/58069246/201831923-fb7d480f-30ad-411f-b32a-018ad75306bc.png)
+
+it wont work
+
 
 ## AC Measure
 "...Variation of the transport current or external magnetic field (as in an AC cycle) can lead to the movement of vortices inside the superconductor, which induces currents in the normal conducting regions associated with the core of each vortex where AC power dissipation is thus produced..."(5)
