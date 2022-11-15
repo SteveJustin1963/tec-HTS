@@ -27,7 +27,7 @@ PbO and SrO
 
 why oxides ?
 
-oxides tend to be good electrical insulators, so adding them to a superconducting material could help to increase its electrical resistance and improve its performance.
+oxides tend to be good electrical insulators, so adding them to a superconducting material could help to increase its electrical resistance and improve its performance.  Additionally, the oxide ions can also help to stabilize the superconducting state of the material, which can improve its performance.
 
 
 ## References
