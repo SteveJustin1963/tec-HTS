@@ -17,8 +17,13 @@ and Yttrium barium copper oxide; YBa_2Cu_3O_7.
 
 ![YBCO_high_temperature_superconductor](https://user-images.githubusercontent.com/58069246/201831292-e9384f2b-08d8-4c6a-b477-f3b464765463.jpg)
 
+### measure
+![download](https://user-images.githubusercontent.com/58069246/201831881-18e44624-c502-4903-8e1a-f9959042658a.png)
+![10948_2014_2483_Fig5_HTML](https://user-images.githubusercontent.com/58069246/201831923-fb7d480f-30ad-411f-b32a-018ad75306bc.png)
 
-### try
+
+
+### try material
 guess a new High-temperature superconductivity compound
 
 
@@ -35,5 +40,6 @@ oxides tend to be good electrical insulators, so adding them to a superconductin
 - https://en.wikipedia.org/wiki/Superconductivity	
 - https://en.wikipedia.org/wiki/High-temperature_superconductivity
 - https://en.wikipedia.org/wiki/Yttrium_barium_copper_oxide
+- https://encyclopedia.pub/entry/9252
 
 
