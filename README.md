@@ -24,6 +24,9 @@ and Yttrium barium copper oxide; YBa_2Cu_3O_7.
 ## AC Measure
 "...Variation of the transport current or external magnetic field (as in an AC cycle) can lead to the movement of vortices inside the superconductor, which induces currents in the normal conducting regions associated with the core of each vortex where AC power dissipation is thus produced..."(5)
 ## Brandt equation
+
+![blobid0-609cf7c473ad3](https://user-images.githubusercontent.com/58069246/201833531-2b2775cc-939a-4164-86b6-785efa27d091.png)
+
 p=4Pi*u0*w^2*f*h0*hc8(2*Hc/H0*ln(cosh(h0/Hc))-tanh(h0/hc))
 
 
