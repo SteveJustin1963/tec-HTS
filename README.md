@@ -21,6 +21,11 @@ and Yttrium barium copper oxide; YBa_2Cu_3O_7.
 ![download](https://user-images.githubusercontent.com/58069246/201831881-18e44624-c502-4903-8e1a-f9959042658a.png)
 ![10948_2014_2483_Fig5_HTML](https://user-images.githubusercontent.com/58069246/201831923-fb7d480f-30ad-411f-b32a-018ad75306bc.png)
 
+## AC Measure
+"...Variation of the transport current or external magnetic field (as in an AC cycle) can lead to the movement of vortices inside the superconductor, which induces currents in the normal conducting regions associated with the core of each vortex where AC power dissipation is thus produced..."(5)
+## Brandt equation
+p=4Pi*u0*w^2*f*h0*hc8(2*Hc/H0*ln(cosh(h0/Hc))-tanh(h0/hc))
+
 
 
 ### try material
@@ -40,6 +45,6 @@ oxides tend to be good electrical insulators, so adding them to a superconductin
 - https://en.wikipedia.org/wiki/Superconductivity	
 - https://en.wikipedia.org/wiki/High-temperature_superconductivity
 - https://en.wikipedia.org/wiki/Yttrium_barium_copper_oxide
-- https://encyclopedia.pub/entry/9252
+- https://encyclopedia.pub/entry/9252     (5)
 
 
