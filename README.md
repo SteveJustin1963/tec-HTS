@@ -2,6 +2,11 @@
 TEC-1 measure high-temperature superconductors and test
 
 
+## best new High-temperature superconductivity compound
+
+There is no definitive answer to this question as new high-temperature superconductivity compounds are being discovered and synthesized all the time. Some of the most promising recent compounds include iron-based superconductors such as FeSe and FeTe, as well as cuprate superconductors such as HgBa_2Ca_2Cu_3O_8 and YBa_2Cu_3O_7.
+
+
 ### try
 guess a new High-temperature superconductivity compound
 
