@@ -14,6 +14,7 @@ Mercury barium calcium copper oxide; HgBa_2Ca_2Cu_3O_8
 
 
 and Yttrium barium copper oxide; YBa_2Cu_3O_7. 
+
 ![YBCO_high_temperature_superconductor](https://user-images.githubusercontent.com/58069246/201831292-e9384f2b-08d8-4c6a-b477-f3b464765463.jpg)
 
 
