@@ -28,11 +28,14 @@ it wont work
 "...Variation of the transport current or external magnetic field (as in an AC cycle) can lead to the movement of vortices inside the superconductor, which induces currents in the normal conducting regions associated with the core of each vortex where AC power dissipation is thus produced..."(5)...is describing the phenomenon known as "flux creep" in superconductors, which occurs when the transport current or external magnetic field varies. The movement of vortices inside the superconductor induces currents in the normal conducting regions associated with the core of each vortex. This results in AC power dissipation in the normal conducting regions, rather than zero resistance and zero power dissipation as in a perfect superconductor.
 
 ## Brandt equation
-The Brandt equation is a mathematical equation that describes the flux creep phenomenon in superconductors. It relates the current density, J, to the magnetic field, B, and the temperature, T, by taking into account the pinning strength of the vortex lattice, the vortex viscosity, and the vortex core radius. The Brandt equation is often used to model the flux creep behavior of superconductors under various conditions, such as varying current, magnetic field, and temperature.
+- ![blobid0-609cf7c473ad3](https://user-images.githubusercontent.com/58069246/201833531-2b2775cc-939a-4164-86b6-785efa27d091.png)
+- p=4Pi*u0*w^2*f*h0*hc8(2*Hc/H0*ln(cosh(h0/Hc))-tanh(h0/hc))
 
-![blobid0-609cf7c473ad3](https://user-images.githubusercontent.com/58069246/201833531-2b2775cc-939a-4164-86b6-785efa27d091.png)
+- J = J_0 * exp(-(U_0 / k_B T) * (1 - (B / B_c2)^n))
+- where J is the current density, J_0 is a prefactor, U_0 is the pinning energy, k_B is the Boltzmann constant, T is the temperature, B is the magnetic field, B_c2 is the upper critical field and n is the flux creep exponent.
 
-p=4Pi*u0*w^2*f*h0*hc8(2*Hc/H0*ln(cosh(h0/Hc))-tanh(h0/hc))
+
+Both equations you provided are known as Brandt equations, which describe the flux creep phenomenon in superconductors. The first equation relates the current density, J, to the magnetic field, B, and the temperature, T, by taking into account the pinning strength of the vortex lattice, the vortex viscosity, and the vortex core radius. The second equation describes the flux creep as an exponential function of the current density, J, with respect to the pinning energy, U_0, the temperature, T, and the magnetic field, B, with the coefficient of proportionality being the Boltzmann constant, k_B, and n being the flux creep exponent. Both equations are used to model the flux creep behavior of superconductors under various conditions.
 
 
 
