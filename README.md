@@ -25,7 +25,8 @@ it wont work
 
 
 ## AC Measure
-"...Variation of the transport current or external magnetic field (as in an AC cycle) can lead to the movement of vortices inside the superconductor, which induces currents in the normal conducting regions associated with the core of each vortex where AC power dissipation is thus produced..."(5)
+"...Variation of the transport current or external magnetic field (as in an AC cycle) can lead to the movement of vortices inside the superconductor, which induces currents in the normal conducting regions associated with the core of each vortex where AC power dissipation is thus produced..."(5)...is describing the phenomenon known as "flux creep" in superconductors, which occurs when the transport current or external magnetic field varies. The movement of vortices inside the superconductor induces currents in the normal conducting regions associated with the core of each vortex. This results in AC power dissipation in the normal conducting regions, rather than zero resistance and zero power dissipation as in a perfect superconductor.
+
 ## Brandt equation
 
 ![blobid0-609cf7c473ad3](https://user-images.githubusercontent.com/58069246/201833531-2b2775cc-939a-4164-86b6-785efa27d091.png)
